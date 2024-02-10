@@ -14,7 +14,9 @@
         class="flex flex-row justify-between"
       >
         <div class="flex flex-row space-x-2">
-          <div class="text-green-600 text-5xl"><i class="fa-brands fa-pied-piper"></i></div>
+          <div class="text-green-600 text-5xl">
+            <i class="fa-brands fa-pied-piper"></i>
+          </div>
         </div>
         <div>
           <ul class="flex flex-row space-x-10 text-white font-black-800 dnon">
