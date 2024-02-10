@@ -22,7 +22,7 @@
           <ul class="flex flex-row space-x-10 text-white font-black-800 dnon">
             <li
               style="background-color: white"
-              class="text-black h-[25px] w-[100px] flex text-center justify-center rounded rounded-xl font-bold"
+              class="text-black h-[25px] w-[100px] flex text-center justify-center rounded font-bold"
             >
               Dashboard
             </li>
