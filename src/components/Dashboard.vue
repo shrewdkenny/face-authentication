@@ -1,11 +1,11 @@
 <template>
   <div
-    class="h-screen bg-green-500 relative rely"
+    class="h-screen relative rely"
     data-aos-duration="2000"
     data-aos="flip-left"
     data-aos-easing="ease-out-cubic"
   >
-    <div class="h-[50vh] p-10 overflow-hidden">
+    <div class="h-[50vh] p-10 overflow-hidden green">
       <div
         style="display: flex; align-items: center"
         class="flex flex-row justify-between"
@@ -71,7 +71,7 @@
     <div class="flex justify-center fcol mmt">
       <div class="flex flex-col h-[100vh]">
         <div
-          class="absolute bg-center h-[240px] w-[450px] top-[360px] mx-[50px] rounded-2xl px-5 py-5 red"
+          class="absolute bg-center h-[240px] w-[450px] top-[360px] mx-[50px] rounded-2xl px-5 py-5 red white"
         >
           <h1 class="font-light text-gray-600">Account balance</h1>
           <div class="flex flex-row justify-between mt-10">
@@ -349,6 +349,13 @@
   </div>
 </template>
 <style>
+.green{
+  background-image: url("@/assets/images/background.jpeg");
+}
+.white{
+  background-image: url("@/assets/images/background2.jpeg");
+}
+
 @media (max-width: 760px) {
   .rely {
     justify-content: center;
