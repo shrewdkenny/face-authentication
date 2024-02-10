@@ -358,11 +358,12 @@
 
 @media (max-width: 760px) {
   .rely {
+    
     justify-content: center;
     flex-wrap: wrap;
     overflow-x: hidden;
     width: 100%;
-    margin-bottom: -120px;
+    height: 80vh;
     position: relative;
     height: fit-content;
   }
