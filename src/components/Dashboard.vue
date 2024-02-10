@@ -358,7 +358,6 @@
 
 @media (max-width: 760px) {
   .rely {
-    
     justify-content: center;
     flex-wrap: wrap;
     overflow-x: hidden;
