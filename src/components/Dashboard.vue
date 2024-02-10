@@ -349,10 +349,10 @@
   </div>
 </template>
 <style>
-.green{
+.green {
   background-image: url("@/assets/images/background.jpeg");
 }
-.white{
+.white {
   background-image: url("@/assets/images/background2.jpeg");
 }
 
@@ -406,9 +406,9 @@
     width: 90vw;
     margin-right: 19px;
   }
-.white{
-  padding-top: 20px;
-}
+  .white {
+    padding-top: 20px;
+  }
   /* .mmt{
     top: -60px;
   } */
