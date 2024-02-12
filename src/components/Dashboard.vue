@@ -364,7 +364,6 @@
     width: 100%;
     height: 70vh;
     position: relative;
-   
   }
   .dnon {
     display: none;
@@ -374,7 +373,6 @@
     position: relative;
     justify-content: center;
     flex-direction: column;
-    
   }
   .wid {
     display: none;
@@ -411,7 +409,7 @@
     /* padding-bottom: 20px; */
     top: 3px;
   }
-  .go{
+  .go {
     position: absolute;
     top: 900px;
   }
