@@ -362,9 +362,9 @@
     flex-wrap: wrap;
     overflow-x: hidden;
     width: 100%;
-    height: 80vh;
+    height: 70vh;
     position: relative;
-    height: 100vh;
+   
   }
   .dnon {
     display: none;
