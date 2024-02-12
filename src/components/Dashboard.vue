@@ -364,7 +364,7 @@
     width: 100%;
     height: 80vh;
     position: relative;
-    height: 200vh;
+    height: 100vh;
   }
   .dnon {
     display: none;
