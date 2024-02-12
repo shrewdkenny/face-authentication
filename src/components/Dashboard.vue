@@ -227,7 +227,7 @@
         </div>
       </div>
       <!-- side -->
-      <div class="relative jcc">
+      <div class="relative go jcc">
         <div
           class="h-[350px] border w-[700px] p-3 rounded-2xl mt-[-44px] bg-white chan"
         >
@@ -374,6 +374,7 @@
     position: relative;
     justify-content: center;
     flex-direction: column;
+    
   }
   .wid {
     display: none;
@@ -407,7 +408,12 @@
     margin-right: 19px;
   }
   .white {
-    padding-bottom: 20px;
+    /* padding-bottom: 20px; */
+    top: 3px;
+  }
+  .go{
+    position: absolute;
+    top: 900px;
   }
   /* .mmt{
     top: -60px;
