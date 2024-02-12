@@ -361,7 +361,7 @@
     justify-content: center;
     flex-wrap: wrap;
     overflow-x: hidden;
-    overflow-y: scroll;
+    overflow-y: visible;
     width: 100%;
     height: 100vh;
     position: relative;
