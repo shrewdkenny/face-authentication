@@ -60,7 +60,7 @@
       </div>
       <div class="fcol flex flex-row justify-between mt-[150px] font-black-800">
         <div class="flex space-x-2">
-          <div class="text-white text-2xl"><h1>Welcome back, Azeez's</h1></div>
+          <div class="text-white text-2xl"><h1>Welcome User</h1></div>
           <div class="text-orange-300 text-2xl">
             <i class="fa-solid fa-thumbs-up"></i>
           </div>
