@@ -76,7 +76,7 @@
           <h1 class="font-light text-gray-600">Account balance</h1>
           <div class="flex flex-row justify-between mt-10">
             <div class="font-black-800 text-xl">
-              NGN. <span class="font-black text-2xl">2,000,678.00</span>
+              NGN. <span class="font-black text-2xl">3,200,000.12</span>
             </div>
             <div>
               <button
