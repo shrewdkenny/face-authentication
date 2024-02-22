@@ -421,13 +421,10 @@
 </style>
 
 <script>
-import SendMoney from "./SendMoney.vue";
 export default {
   name: "Test",
   created() {},
-  components: {
-    SendMoney,
-  },
+  components: {},
   data() {
     return {};
   },
